@@ -71,7 +71,8 @@ else:
    print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
 ```
 # Output : 
-![image](https://github.com/lokeshnarayanan/Poisson_distribution/assets/119393019/a3517389-5262-48ff-b8c9-6fa049031170)
+![image](https://github.com/lokeshnarayanan/Poisson_distribution/assets/119393019/4a58d9b5-f77a-4cc3-9388-4521f863ed35)
+
 
 
 
